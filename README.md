@@ -21,3 +21,6 @@ Sintaxis básica de Javascript
 
 ### **Coerción**
 * [Coerción](./lineal-structured/coercion/coercion.md)
+
+### **Operadores**
+* [Operadores](./lineal-structured/operadores/operadores.md)
