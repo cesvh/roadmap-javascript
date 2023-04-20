@@ -15,3 +15,9 @@ Sintaxis básica de Javascript
 
 ### **Scope**
 * [Scope](./lineal-structured/scope/scope.md)
+
+### **Hoisting**
+* [Hoisting](./lineal-structured/hoisting/hoisting.md)
+
+### **Coerción**
+* [Coerción](./lineal-structured/coercion/coercion.md)
