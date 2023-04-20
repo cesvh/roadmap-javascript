@@ -17,30 +17,15 @@ function my_function(){
     var my_local = "Variable local";
     console.log(`Global: ${my_global} - Local: ${my_local}`);
 }
-```
 
-```js
 console.log(my_global);
-```
-
-```
-Variable global
-
-```
-
-```js
 my_function();
-```
-
-```
-Global: Variable global - Local: Variable local
-```
-
-```js
 console.log(my_local);
 ```
 
 ```
+Variable global
+Global: Variable global - Local: Variable local
 Uncaught ReferenceError: my_local is not defined
-    at <anonymous>:1:13
+    at <anonymous>:10:13
 ```

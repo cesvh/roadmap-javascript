@@ -12,3 +12,6 @@ Sintaxis básica de Javascript
 
 ### **Funciones**
 * [Funciones](./lineal-structured/funciones/funciones.md)
+
+### **Scope**
+* [Scope](./lineal-structured/scope/scope.md)
