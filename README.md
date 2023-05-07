@@ -29,5 +29,26 @@ Sintaxis básica de Javascript
 ### **Truthy Falsy**
 * [Valores true y false](./lineal-structured/truthy-falsy/truthy-falsy.md)
 
-### **Desiciones**
-* [Desiciones](./lineal-structured/if-else/if-else.md)
+### **Decisiones**
+* [Decisiones](./lineal-structured/if-else/if-else.md)
+
+### **Array**
+* [Arreglos](./lineal-structured/arreglos/arreglos.md)
+* [Recorrer arreglos](./lineal-structured/arreglos/recorrer-array.md)
+
+<!-- ### **Ciclos** -->
+<!-- * [while]() -->
+<!-- * [for]() -->
+<!-- * [for in]() // Itera propiedades de un objeto -->
+<!-- * [for of]() // Itera valores de un objeto iterable -->
+
+### **Objetos**
+* [Objetos](./lineal-structured/objetos/objetos.md)
+
+<!-- ### **Métodos para recorrer un array** -->
+<!-- * [filter]() -->
+<!-- * [map]() -->
+<!-- * [find]() -->
+<!-- * [forEach]() -->
+<!-- * [some]() -->
+<!-- * [Eliminar item de un array]() -->
